@@ -1,1 +1,1 @@
-rusty guessing game
+guessing game
